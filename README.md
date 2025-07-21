@@ -1,6 +1,11 @@
-# 💫 About Me:
-I'm Juan, a Software Engineering student at Universidad Nacional de Colombia 🇨🇴  <br>I'm currently learning JavaScript, React, and its ecosystem of frameworks.  <br>In my free time, I enjoy playing video games 🎮 and building fun or useful projects with code.<br><br>
+# 💫 About Me
+Hi! I'm **Juan**, a Software Engineering student at **Universidad Nacional de Colombia** 🇨🇴  
+I'm currently diving into **JavaScript**, **React**, and its modern ecosystem.  
+I enjoy building fun and practical projects — and when I’m not coding, I’m probably playing video games 🎮.
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" alt="Pixel Coder GIF" width="300" />
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-david-ladino-triana-27474423b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jladinot@unal.edu.co) 
