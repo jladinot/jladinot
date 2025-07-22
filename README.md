@@ -2,6 +2,7 @@
 Hi! I'm **Juan**, a Software Engineering student at **Universidad Nacional de Colombia** 🇨🇴  
 I'm currently diving into **JavaScript**, **React**, and its modern ecosystem.  
 I enjoy building fun and practical projects — and when I’m not coding, I’m probably playing video games 🎮.
+I like cats 🐱
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" alt="Pixel Coder GIF" width="300" />
